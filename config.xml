@@ -3,10 +3,10 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.girlsbirthdayboutique"
-  version     = "15.05.19"
-  versionCode = "150519"
+  version     = "15.05.20"
+  versionCode = "150520"
 >
-  <name>Girls 1st First Birthday Outfits</name>
+  <name>Baby 1st Birthday Clothings</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
