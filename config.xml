@@ -3,15 +3,15 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.girlsbirthdayboutique"
-  version     = "15.05.22"
-  versionCode = "150522"
+  version     = "15.05.26"
+  versionCode = "150526"
 >
   <name>Baby 1st Birthday Clothings</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
   </author>
-  <description></description>
+  <description>com.storemobilizer.girlsbirthdayboutique for android</description>
   <preference name="phonegap-version" value="3.6.3"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
