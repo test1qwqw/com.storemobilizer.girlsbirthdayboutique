@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.girlsbirthdayboutique"
-  version     = "15.05.29"
-  versionCode = "150529"
+  version     = "15.06.01"
+  versionCode = "150601"
 >
   <name>Baby 1st Birthday Clothings</name>
   <author
