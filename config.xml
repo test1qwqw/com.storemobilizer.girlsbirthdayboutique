@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <widget
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.girlsbirthdayboutique"
-  version     = "15.06.03"
-  versionCode = "150603"
+  version     = "15.07.02"
+  versionCode = "150702"
 >
   <name>Baby 1st Birthday Clothings</name>
   <author
